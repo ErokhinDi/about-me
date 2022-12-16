@@ -1,5 +1,5 @@
 # Ученье свет,а не ученье -тьма... #
-![foto](https://github.com/ErokhinDi/about-me/blob/main/20220822-PN3A3370.jpg)
+![foto](https://github.com/ErokhinDi/about-me/blob/main/foto/20220822-PN3A3370.jpg)
 ## Обо мне ##
 - Фамилия: Ерохин 
 - Имя : Дмитрий 
